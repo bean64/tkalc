@@ -1,0 +1,42 @@
+New planned layout:
+
+
+Main window:
+	 T O O L B A R S
+      0   1   2   3
+0	[      i00      ]
+1	[      i01      ]
+2	| ^ | √ | C | ← |
+3	| 1 | 2 | 3 | + |
+4	| 4 | 5 | 6 | - |
+5	| 7 | 8 | 9 | × |
+6	| 0 | . | = | ÷ |
+7	|FNC|MEM|AC | π |
+
+Function window:
+	|Sin|Cos|Tan| e | [Trigonometric Functions]
+    |Asn|Acs|Atn|ln | [Inverted Trig Functions]
+	|Deg ( )|Rad,( )| [Degrees/Radians setting]
+	|nm=| x |EXE|xst| [Newton's method solving]
+	| ( | ) |log|lgb| [lgb to set base for log]
+
+Memory window:	
+	,MR1,MR2,MR3,MR4,
+	|SET|SET|SET|SET|
+	|CPY|CPY|CPY|CPY|
+	|CLR|CLR|CLR|CLR|
+
+New stuff:
+
+Memory Window
+Memory backend
+Memory- Store/retrieve from file
+Toolbar along top - Help, etc
+
+BRACKETS
+Function window-Display
+Functions
+AC
+New display logic, and usage of the top screen to show expression to be evaluated
+Newton's Method solving
+nm= is the button to put an = sign on the display, x is the value to solve for and EXE starts the iterating. xst is an input box to put the starting value for x.

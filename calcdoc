@@ -1,0 +1,38 @@
+Initial planned layout:
+
+     0 1 2 3
+
+0	[       ]
+1	|^|√|C|←|
+2	|1|2|3|+|
+3	|4|5|6|-|
+4	|7|8|9|×|
+5	|0|.|=|÷|
+
+We will need:
+
+Functions:
+Add
+Subtract
+Divide
+Multiply
+Raise to the power of
+Update screen
+Input taking - Append to variable or clear or whatever, maybe even have keyboard inputs? The sky is the limit, here, but I think voice recognition is overkill
+Update vars
+Imported TKinter
+
+
+Variables:
+Input 1
+Selected Operator
+Input 2
+Answer
+
+Screen buffer
+
+Screen variable
+
+
+
+
